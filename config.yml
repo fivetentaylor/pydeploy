@@ -1,0 +1,6 @@
+test :
+  descrition : First fake cli tool
+  path : /a/fake/path
+test2 :
+  descrition : Second fake cli tool
+  path : /b/fake/path
